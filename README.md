@@ -83,7 +83,7 @@ The 3-hour tutorial is organized in the following sections.
 - Explore several open source models for speech generation.
 - Discuss the implications for accessibility.
 
-**Notebook**: [Bonus Use Case. Text to Speech](Bonus_Use_Case_Speech_to_Text.ipynb)
+**Notebook**: [Bonus Use Case. Text to Speech](Bonus_Use_Case_Text_to_Speech.ipynb)
 
 ### Discussion (30 min)
 - Discuss the challenges and best practices for deploying accessible content solutions.
@@ -106,22 +106,22 @@ This dataset featuring diverse multimedia posts with curated images and videos h
 
 | Subreddit | Title | Attachments |
 | --- | --- | --- |
-| catsplayingvideogames | [Pro Gamer here](https://www.reddit.com/r/catsplayingvideogames/comments/bvr5pi/pro_gamer_here/) | [image](media/image1.jpg) |
-| pics | [English football fans leaving Frankfurt in a mess after the match](https://www.reddit.com/r/pics/comments/1dnav3a/english_football_fans_leaving_frankfurt_in_a_mess/) | [image](media/image2.png) |
-| pics | [My oil painting of red wine and dino nuggs](https://www.reddit.com/r/pics/comments/1dndzjq/my_oil_painting_of_red_wine_and_dino_nuggs/) | [image](media/image3.png) |
-| pics | [The first set photo of actor David Corenswet in James Gunn’s upcoming ‘Superman’ (2025)](https://www.reddit.com/r/pics/comments/1dnj66v/the_first_set_photo_of_actor_david_corenswet_in/) | [image](media/image4.png) |
-| gaming | [A bunch of 40 year olds just playing games at my house](https://www.reddit.com/r/gaming/comments/1dnikxs/a_bunch_of_40_year_olds_just_playing_games_at_my/) | [image](media/image5.png) |
-| auroraborealis | [Whistler BC Canada](https://www.reddit.com/r/AuroraBorealis/comments/1cq8asv/whistler_bc_canada/) | [image](media/image6.png) |
-| science | [Why can't we walk in a straight line?](https://www.reddit.com/r/science/comments/ez5ye/why_cant_we_walk_in_a_straight_line/) | [video](media/video1.mp4) |
-| 2latinoforyou | [Esta picante la cosa](https://www.reddit.com/r/2latinoforyou/comments/1aiwjmg/esta_picante_la_cosa/) | [video](media/video2.mp4) |
-| funny | [Rob Brydon and Steve Coogan's duelling Michael Caine impressions](https://www.reddit.com/r/funny/comments/1dngpmx/rob_brydon_and_steve_coogans_duelling_michael/) | [video](media/video3.mp4) |
-| interestingasfuck | [Part of the ravens' morning routine at the Tower of London with their Ravenmaster](https://www.reddit.com/r/interestingasfuck/comments/1dnfraw/part_of_the_ravens_morning_routine_at_the_tower/) | [video](media/video4.mp4) |
-| interestingasfuck | [A bear says hi and catches the food like a pro](https://www.reddit.com/r/interestingasfuck/comments/1dn5jgo/a_bear_says_hi_and_catches_the_food_like_a_pro/) | [video](media/video5.mp4) |
-| interestingasfuck | [AI learns to see with Wi-Fi routers as its eyes](https://www.reddit.com/r/interestingasfuck/comments/1dnjsy3/ai_learns_to_see_with_wifi_routers_as_its_eyes/) | [video](media/video6.mp4) |
-| pettyrevenge | [You get me fired, so you can’t work where I care about](https://www.reddit.com/r/pettyrevenge/comments/1dmreax/you_get_me_fired_so_you_cant_work_where_i_care/) | [text](media/text1.txt) |
-| pettyrevenge | [Keep pestering me to tie into my fence? Say goodbye to the fence!](https://www.reddit.com/r/pettyrevenge/comments/1dllccj/keep_pestering_me_to_tie_into_my_fence_say/) | [text](media/text2.txt) |
-| stories | [I found an endless hole on some land I recently bought. It changes anything I send down in bizarre ways.](https://www.reddit.com/r/stories/comments/1dnd5h0/i_found_an_endless_hole_on_some_land_i_recently/) | [text](media/text3.txt) |
-| stories | [Wisdom story: A wise elderly man and two travelers](https://www.reddit.com/r/stories/comments/1dnc0d6/wisdom_story_a_wise_elderly_man_and_two_travelers/) | [text](media/text4.txt) |
+| catsplayingvideogames | [Pro Gamer here](https://www.reddit.com/r/catsplayingvideogames/comments/bvr5pi/pro_gamer_here/) | [image1](media/image1.jpg) |
+| pics | [English football fans leaving Frankfurt in a mess after the match](https://www.reddit.com/r/pics/comments/1dnav3a/english_football_fans_leaving_frankfurt_in_a_mess/) | [image2](media/image2.png) |
+| pics | [My oil painting of red wine and dino nuggs](https://www.reddit.com/r/pics/comments/1dndzjq/my_oil_painting_of_red_wine_and_dino_nuggs/) | [image3](media/image3.png) |
+| pics | [The first set photo of actor David Corenswet in James Gunn’s upcoming ‘Superman’ (2025)](https://www.reddit.com/r/pics/comments/1dnj66v/the_first_set_photo_of_actor_david_corenswet_in/) | [image4](media/image4.png) |
+| gaming | [A bunch of 40 year olds just playing games at my house](https://www.reddit.com/r/gaming/comments/1dnikxs/a_bunch_of_40_year_olds_just_playing_games_at_my/) | [image5](media/image5.png) |
+| auroraborealis | [Whistler BC Canada](https://www.reddit.com/r/AuroraBorealis/comments/1cq8asv/whistler_bc_canada/) | [image6](media/image6.png) |
+| science | [Why can't we walk in a straight line?](https://www.reddit.com/r/science/comments/ez5ye/why_cant_we_walk_in_a_straight_line/) | [video1](media/video1.mp4) |
+| 2latinoforyou | [Está picante la cosa](https://www.reddit.com/r/2latinoforyou/comments/1aiwjmg/esta_picante_la_cosa/) | [video2](media/video2.mp4) |
+| funny | [Rob Brydon and Steve Coogan's duelling Michael Caine impressions](https://www.reddit.com/r/funny/comments/1dngpmx/rob_brydon_and_steve_coogans_duelling_michael/) | [video3](media/video3.mp4) |
+| interestingasfuck | [Part of the ravens' morning routine at the Tower of London with their Ravenmaster](https://www.reddit.com/r/interestingasfuck/comments/1dnfraw/part_of_the_ravens_morning_routine_at_the_tower/) | [video4](media/video4.mp4) |
+| interestingasfuck | [A bear says hi and catches the food like a pro](https://www.reddit.com/r/interestingasfuck/comments/1dn5jgo/a_bear_says_hi_and_catches_the_food_like_a_pro/) | [video5](media/video5.mp4) |
+| interestingasfuck | [AI learns to see with Wi-Fi routers as its eyes](https://www.reddit.com/r/interestingasfuck/comments/1dnjsy3/ai_learns_to_see_with_wifi_routers_as_its_eyes/) | [video6](media/video6.mp4) |
+| pettyrevenge | [You get me fired, so you can’t work where I care about](https://www.reddit.com/r/pettyrevenge/comments/1dmreax/you_get_me_fired_so_you_cant_work_where_i_care/) | [text1](media/text1.txt) |
+| pettyrevenge | [Keep pestering me to tie into my fence? Say goodbye to the fence!](https://www.reddit.com/r/pettyrevenge/comments/1dllccj/keep_pestering_me_to_tie_into_my_fence_say/) | [text2](media/text2.txt) |
+| stories | [I found an endless hole on some land I recently bought. It changes anything I send down in bizarre ways.](https://www.reddit.com/r/stories/comments/1dnd5h0/i_found_an_endless_hole_on_some_land_i_recently/) | [text3](media/text3.txt) |
+| stories | [Wisdom story: A wise elderly man and two travelers](https://www.reddit.com/r/stories/comments/1dnc0d6/wisdom_story_a_wise_elderly_man_and_two_travelers/) | [text4](media/text4.txt) |
 
 
 ## Presentation Slides
