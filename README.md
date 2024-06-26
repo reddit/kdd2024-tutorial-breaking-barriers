@@ -1,5 +1,8 @@
 # Breaking Barriers: A Hands-On Tutorial on AI-Enabled Accessibility to Social Media Content
 
+**ACM KDD 2024 | Barcelona, Spain | Monday, August 26	9:00 AM – 12:00 PM**
+
+--- 
 
 ## Motivation
 
@@ -27,7 +30,7 @@ The target audience are researchers or practitioners interested about AI-enabled
 The tutorial will use Google Colaboratory, running a different notebook for each use case.
 
 
-## Societal Impact
+## Impact on Society
 
 Leveraging advanced AI techniques to enhance social media accessibility holds an immense potential for transformative societal impact, fostering a more inclusive, equitable, and accessible society where individuals with disabilities are empowered to actively engage in the digital world. sense of belonging, self-esteem, and overall well-being:
 
@@ -43,7 +46,7 @@ Moreover, our goal is to use this tutorial to raise awareness of the importance 
 
 ## Tutorial Outline
 
-The 3-hour tutorial is organized in the following sections. 
+The 3-hour tutorial will take place on Monday, August 26, 2024 from 9am to 12pm and will be organized in the following sections. 
 
 ### Introduction (15 min)
 - Explain the importance of accessibility in digital content.
@@ -54,7 +57,7 @@ The 3-hour tutorial is organized in the following sections.
 **Discussion**: [Accessibility](Accessibility.md)
 
 ### Use Case 1. Image Short Captions (45 min)
-- Demonstrate how to use LLMs to generate Walk participants through the process of deploying and prompting different multimodal LLMs LLaVA, imp-v1-3b, phi-3, and others to generate short, descriptive captions for Reddit images.
+- Demonstrate how to use LLMs to generate Walk participants through the process of deploying and prompting different multimodal LLMs such as LLaVA, imp-v1-3b, phi-3, and others to generate short, descriptive captions for social media images.
 - Discuss the challenges and limitations of using LLMs for image captioning.
 
 **Notebook**: [Use Case 1. Image Short Captions](Use_Case_1_Image_Short_Captions.ipynb)
@@ -79,16 +82,16 @@ The 3-hour tutorial is organized in the following sections.
 
 **Notebook**: [Use Case 4. Complex Post Summarization](Use_Case_4_Complex_Post_Summarization.ipynb)
 
+### Discussion (30 min)
+- Discuss the challenges and best practices for deploying accessible content solutions.
+- Guide participants in developing a plan for implementing accessibility initiatives.
+- Summarize the key takeaways and benefits of enhancing social media accessibility.
+
 ### Bonus Use Case. Text to Speech (for fast runners)
 - Explore several open source models for speech generation.
 - Discuss the implications for accessibility.
 
 **Notebook**: [Bonus Use Case. Text to Speech](Bonus_Use_Case_Text_to_Speech.ipynb)
-
-### Discussion (30 min)
-- Discuss the challenges and best practices for deploying accessible content solutions.
-- Guide participants in developing a plan for implementing accessibility initiatives.
-- Summarize the key takeaways and benefits of enhancing social media accessibility.
 
 
 ## Running the Notebooks
@@ -124,11 +127,6 @@ This dataset featuring diverse multimedia posts with curated images and videos h
 | stories | [Wisdom story: A wise elderly man and two travelers](https://www.reddit.com/r/stories/comments/1dnc0d6/wisdom_story_a_wise_elderly_man_and_two_travelers/) | [text4](media/text4.txt) |
 
 
-## Presentation Slides
-
-The slides for the KDD'24 hands-on tutorial session will be linked here when they are available.
-
-
 ## Authors
 
 All authors are members of the multidisciplinary ML Understanding team at Reddit, based in the United States, Spain, and Canada.
@@ -144,7 +142,7 @@ All authors are members of the multidisciplinary ML Understanding team at Reddit
 
 ## Disclaimer
 
-The notebooks and code snippets are provided for illustrative purposes only and should not be considered production-ready solutions. The code demonstrates various use cases and concepts but may contain bugs or inefficiencies. There might be more optimal ways to achieve the same functionality. This code also incorporates external implementations, all of which are appropriately referenced within the code comments. Please refer to the original sources for detailed documentation and licensing information. Use this code as a starting point for your own implementations and adapt it to your specific needs and requirements.
+*The notebooks and code snippets are provided for illustrative purposes only and should not be considered production-ready solutions. The code demonstrates various use cases and concepts but may contain bugs or inefficiencies. There might be more optimal ways to achieve the same functionality. This code also incorporates external implementations, all of which are appropriately referenced within the code comments. Please refer to the original sources for detailed documentation and licensing information. Use this code as a starting point for your own implementations and adapt it to your specific needs and requirements.*
 
 
 ## License
