@@ -57,7 +57,7 @@ The 3-hour tutorial will take place on Monday, August 26, 2024 from 9am to 12pm 
 **Discussion**: [Accessibility](Accessibility.md)
 
 ### Use Case 1. Image Short Captions (45 min)
-- Demonstrate how to use LLMs to generate Walk participants through the process of deploying and prompting different multimodal LLMs such as LLaVA, imp-v1-3b, phi-3, and others to generate short, descriptive captions for social media images.
+- Walk participants through the process of deploying and prompting different multimodal LLMs such as LLaVA, phi-3, imp-v1-3b, and others to generate short, descriptive captions for social media images.
 - Discuss the challenges and limitations of using LLMs for image captioning.
 
 **Notebook**: [Use Case 1. Image Short Captions](Use_Case_1_Image_Short_Captions.ipynb)
@@ -135,9 +135,10 @@ All authors are members of the multidisciplinary ML Understanding team at Reddit
 - Rosa Català `<rosa.catala@reddit.com` - Senior Director. San Francisco, CA, USA.
 - Janine García `<janine.garcia@reddit.com` - Staff Engineer. Madrid, Spain.
 - Concepción Polo `<concepcion.polo@reddit.com>` - Staff Engineer. Madrid, Spain.
-- Yessika Labrador `<yessika.labrador@reddit.com>` - Staff Engineers. San Francisco, CA, USA.
+- Yessika Labrador `<yessika.labrador@reddit.com>` - Staff Engineer. San Francisco, CA, USA.
 - Francisco del Valle `<francisco.del.valle@reddit.com>` - Senior Engineer. Madrid, Spain.
 - Bhargav Ayyagari `<bhargav.ayyagari@reddit.com>` - Engineering Manager. Toronto, Canada.
+- Audrey Holmes `<audrey.holmes@reddit.com>` - Staff Engineer. New York, NY, USA.
 
 
 ## Disclaimer
