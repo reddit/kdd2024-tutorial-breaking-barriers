@@ -1,6 +1,6 @@
 # Breaking Barriers: A Hands-On Tutorial on AI-Enabled Accessibility to Social Media Content
 
-**ACM KDD 2024 | Barcelona, Spain | Monday, August 26	9:00 AM – 12:00 PM**
+**ACM KDD 2024 | Barcelona, Spain | Monday, August 26, 10:00 AM – 1:00 PM**
 
 --- 
 
